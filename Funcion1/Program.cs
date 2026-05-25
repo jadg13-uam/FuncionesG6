@@ -6,3 +6,9 @@
 //5. Salir
 
 int num1, num2, resultado, opcion;
+
+int division (int num1, int num2)
+{
+    return num1 / num2;
+
+}
