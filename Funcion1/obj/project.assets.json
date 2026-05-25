@@ -8,19 +8,19 @@
     "net10.0": []
   },
   "packageFolders": {
-    "C:\\Users\\jadg\\.nuget\\packages\\": {}
+    "C:\\Users\\USER\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jadg\\Desktop\\Funciones\\Funcion1\\Funcion1.csproj",
+      "projectUniqueName": "C:\\Users\\USER\\Desktop\\Funciones\\FuncionesG6\\Funcion1\\Funcion1.csproj",
       "projectName": "Funcion1",
-      "projectPath": "C:\\Users\\jadg\\Desktop\\Funciones\\Funcion1\\Funcion1.csproj",
-      "packagesPath": "C:\\Users\\jadg\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jadg\\Desktop\\Funciones\\Funcion1\\obj\\",
+      "projectPath": "C:\\Users\\USER\\Desktop\\Funciones\\FuncionesG6\\Funcion1\\Funcion1.csproj",
+      "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\USER\\Desktop\\Funciones\\FuncionesG6\\Funcion1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\jadg\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
